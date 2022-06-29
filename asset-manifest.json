@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab65b45a.css",
+    "main.js": "/static/js/main.ace3926b.js",
+    "static/js/787.54560015.chunk.js": "/static/js/787.54560015.chunk.js",
+    "static/media/dorso.svg": "/static/media/dorso.c04968de04c95339969ede4ee6f81e4b.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.ab65b45a.css.map": "/static/css/main.ab65b45a.css.map",
+    "main.ace3926b.js.map": "/static/js/main.ace3926b.js.map",
+    "787.54560015.chunk.js.map": "/static/js/787.54560015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab65b45a.css",
+    "static/js/main.ace3926b.js"
+  ]
+}
